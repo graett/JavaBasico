@@ -5,4 +5,4 @@ Exercícios básicos de Java
   
 02 - Crie um algoritmo que armazene dois números inteiros e imprima a soma entre eles.
 
-03 - Crie um algoritmo que imprima a divisão entre dois números inteiros.
+03 - Crie um algoritmo que imprima a divisão entre dois números.
